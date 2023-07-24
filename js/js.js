@@ -489,7 +489,7 @@ let listProducts = [
     name: 'Bathroom 1',
     price: 329,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathbluetooth3.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathbluetooth3.png",
     nature: {
       material: ['bluetooth', 'decorative'],
       room: 'bathR'
@@ -500,7 +500,7 @@ let listProducts = [
     name: 'Bathroom 2',
     price: 559,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathbluetooth4.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathbluetooth4.png",
     nature: {
       material: ['led'],
       room: 'bathR'
@@ -511,7 +511,7 @@ let listProducts = [
     name: 'Bathroom 3',
     price: 219,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathdeco1.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathdeco1.png",
     nature: {
       material: ['metal'],
       room: 'bathR'
@@ -522,7 +522,7 @@ let listProducts = [
     name: 'Bathroom 4',
     price: 329,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathdeco2.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathdeco2.png",
     nature: {
       material: ['metal'],
       room: 'bathR'
@@ -533,7 +533,7 @@ let listProducts = [
     name: 'Bathroom 5',
     price: 1129,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathled1.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathled1.png",
     nature: {
       material: ['bluetooth', 'led'],
       room: 'bathR'
@@ -544,7 +544,7 @@ let listProducts = [
     name: 'Bathroom 6',
     price: 629,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathled2.jpg",
+    image: "IMAGE porducts/Bathroom mirrors/bathled2.jpg",
     nature: {
       material: ['bluetooth', 'led'],
       room: 'bathR'
@@ -555,7 +555,7 @@ let listProducts = [
     name: 'Bathroom 7',
     price: 629,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathled3.jpg",
+    image: "IMAGE porducts/Bathroom mirrors/bathled3.jpg",
     nature: {
       material: ['bluetooth', 'led'],
       room: 'bathR'
@@ -566,7 +566,7 @@ let listProducts = [
     name: 'Bathroom 8',
     price: 629,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathmetal.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathmetal.png",
     nature: {
       material: ['metal', 'arcylic'],
       room: 'bathR'
@@ -577,7 +577,7 @@ let listProducts = [
     name: 'Bathroom 9',
     price: 129,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathmetal2.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathmetal2.png",
     nature: {
       material: ['metal'],
       room: 'bathR'
@@ -588,7 +588,7 @@ let listProducts = [
     name: 'Bathroom 10',
     price: 229,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/bathmetal3.png",
+    image: "IMAGE porducts/Bathroom mirrors/bathmetal3.png",
     nature: {
       material: ['metal'],
       room: 'bathR'
@@ -599,7 +599,7 @@ let listProducts = [
     name: 'Bathroom 11',
     price: 229,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/led4.png",
+    image: "IMAGE porducts/Bathroom mirrors/led4.png",
     nature: {
       material: ['led'],
       room: 'bathR'
@@ -611,7 +611,7 @@ let listProducts = [
     name: 'Bathroom 12',
     price: 329,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/led5.png",
+    image: "IMAGE porducts/Bathroom mirrors/led5.png",
     nature: {
       material: ['decorative'],
       room: 'bathR'
@@ -622,7 +622,7 @@ let listProducts = [
     name: 'Bathroom 13',
     price: 229,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/led6.png",
+    image: "IMAGE porducts/Bathroom mirrors/led6.png",
     nature: {
       material: ['decorative'],
       room: 'bathR'
@@ -634,7 +634,7 @@ let listProducts = [
     name: 'Bathroom 14',
     price: 229,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/wooden1.png",
+    image: "IMAGE porducts/Bathroom mirrors/wooden1.png",
     nature: {
       material: ['wooden'],
       room: 'bathR'
@@ -645,7 +645,7 @@ let listProducts = [
     name: 'Bathroom 15',
     price: 239,
     quantity: 0,
-    image: "IMAGE porducts/ Bathroom mirrors/wooden2.png",
+    image: "IMAGE porducts/Bathroom mirrors/wooden2.png",
     nature: {
       material: ['wooden'],
       room: 'bathR'
