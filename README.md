@@ -13,10 +13,10 @@ Batch no.: T1.2303.M0 CENTER NAME: APTECH-HCMC-2-FPT Project title: ClearReflect
 
 ============================
 
-github report link:  
+github report link:  https://github.com/doanhha1/eProjectG3/tree/main/document
 
 ============================
 
-eProject published at 
+eProject published at : https://doanhha1.github.io/eProjectG3/
 
 ============================
